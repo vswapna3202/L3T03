@@ -5,6 +5,9 @@
 ### Overview
 This task involves implementing ensemble methods such as Bagging, Random Forest, and Boosted trees for predicting the survival of passengers on the Titanic dataset. The notebook `decision_tree_titanic.ipynb` from the previous task (L3T02) will be used to continue the analysis. The objective is to compare the performance of different ensemble methods and tune their parameters for optimal results.
 
+### Dataset
+- titanic.csv: Contains data on passengers aboard the Titanic. [Source](<titanic.csv>)
+
 ### Instructions
 #### Setup and Installation
 1. **Clone the Repository**
